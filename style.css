@@ -1,0 +1,27 @@
+.container
+{
+    text-align: center;
+    margin: 15% 5%;
+    font-size: 2em;
+}
+body{
+    background-color: pink;
+    color:white;
+}
+.container input{
+    height:4rem;
+    width:20rem;
+}
+.container input::placeholder{
+ color:black;
+}
+
+button
+{
+    background-color: white;
+    color:black;
+    border: none;
+    padding: 1% 8%;
+    border-radius: 1em;
+    border:1px solid black;
+}
